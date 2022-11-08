@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar Mohanta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekmohanta03&label=Profile%20views&color=0e75b6&style=flat" alt="vivekmohanta03" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vivekmohanta03" target="blank"><img src="https://img.shields.io/twitter/follow/vivekmohanta03?logo=twitter&style=for-the-badge" alt="vivekmohanta03" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack, JavaScript**
+- 🌱 I’m currently learning **Web Development, MERN Stack, JavaScript, Backend Web Development**
 
 - 💬 Ask me about **HTML, CSS, Java, Python**
 
