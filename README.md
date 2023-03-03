@@ -22,7 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMohanta03&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br><br><br><br>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VivekMohanta03&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=VivekMohanta03&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈Github Activity
 [![Vivek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VivekMohanta03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
