@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
--🔭 I’m currently working on **Projects related to Front End Development**<br>- 🌱 I’m currently learning **Web Development, MERN Stack, JavaScript, Backend Web Development**<br>- 💬 Ask me about **HTML, CSS, Java, Python**<br>- 📫 How to reach me **vivek123.mohanta@gmail.com**<br>- ⚡ Fun fact **I am a Food Enthusiast**
+-🔭 I’m currently working on **Projects on Front End Development**<br>- 🌱 I’m currently learning **Web Development, MERN Stack, JavaScript, Backend Web Development**<br>- 💬 Ask me about **HTML, CSS, Java, Python**<br>- 📫 How to reach me **vivek123.mohanta@gmail.com**<br>- ⚡ Fun fact **I am a Food Enthusiast**
 <br>
 <img align="right" alt="coding" width="400" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
