@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 
--🔭 I’m currently working on **Projects on Front End Development**<br>- 🌱 I’m currently learning **Web Development, MERN Stack, JavaScript, Backend Web Development**<br>- 💬 Ask me about **HTML, CSS, Java, Python**<br>- 📫 How to reach me **vivek123.mohanta@gmail.com**<br>- ⚡ Fun fact **I am a Food Enthusiast**
+-🔭 I’m currently working on **React JS**<br>- 🌱 I’m currently learning **Web Development, MERN Stack, JavaScript, Backend Web Development**<br>- 💬 Ask me about **DSA, HTML, CSS, Java, Python, C++, JavaScript, MERN**<br>- 📫 LinkedIn: <a href="https://www.linkedin.com/in/vivekmohanta03/">VivekMohanta03</a><br> - 📨 Email: **vivek123.mohanta@gmail.com**<br> - ⚡ Fun fact **I am a Food Enthusiast**
 <br>
 <img align="right" alt="coding" width="400" src ="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -36,10 +36,6 @@
 [![VivekMohanta03's GitHub | Languages Over Time](https://stats.quine.sh/VivekMohanta03/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VivekMohanta03)
 
 [![VivekMohanta03's GitHub | Topics Over Time](https://stats.quine.sh/VivekMohanta03/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VivekMohanta03)
-
-## 🐦 Latest Tweet
-
-[![](https://tweeco.pushkaryadav.in/api/handle/VivekMohanta03)](https://tweeco.pushkaryadav.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
