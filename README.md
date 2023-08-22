@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar Mohanta</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<h6 align="center"><img alt="coding" width="300" src ="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"></h6>
+<div align="center">
+  
+[![VivekMohanta03's GitHub | Dependencies](https://stats.quine.sh/VivekMohanta03/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VivekMohanta03)
+
+[![VivekMohanta03's GitHub | Stats](https://stats.quine.sh/VivekMohanta03/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VivekMohanta03)
+
+</div>
 
 # 💫 About Me:
 
@@ -26,12 +32,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=VivekMohanta03&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈Github Activity
-[![Vivek's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VivekMohanta03&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![VivekMohanta03's GitHub | Languages Over Time](https://stats.quine.sh/VivekMohanta03/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VivekMohanta03)
+
+[![VivekMohanta03's GitHub | Topics Over Time](https://stats.quine.sh/VivekMohanta03/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VivekMohanta03)
 
 ## 🐦 Latest Tweet
-<img align="right" alt="coding" width="200" src ="https://media0.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif?cid=6c09b952tczu1vw9kdkh36qexoqypo3pfklau1zd0yttu3sz&rid=giphy.gif&ct=s">
 
-[![](https://gtce.itsvg.in/api?username=VivekMohanta03)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://tweeco.pushkaryadav.in/api/handle/VivekMohanta03)](https://tweeco.pushkaryadav.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
