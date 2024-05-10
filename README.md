@@ -31,6 +31,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VivekMohanta03&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 Holopin Badges
+[![An image of @vivekmohanta03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vivekmohanta03)](https://holopin.io/@vivekmohanta03)
+
 ## 📈Github Activity
 
 [![VivekMohanta03's GitHub | Languages Over Time](https://stats.quine.sh/VivekMohanta03/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=VivekMohanta03)
